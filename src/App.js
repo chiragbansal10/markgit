@@ -51,7 +51,7 @@ function App() {
       linkText: "new-approach-to-healthcare-on-11th-december-2023",
       editedTime: "Edited 2 days ago",
       content:
-        "John Doe shared insights on new approaches to improving healthcare delivery at the Annual Health Summit.",
+        "New update by John Doe shared insights on new approaches to improving healthcare delivery at the Annual Health Summit.",
       comments: 5,
       favourites: 10,
       commenterProfilePicture: "https://placehold.co/30x30",
@@ -66,7 +66,7 @@ function App() {
       linkText: "education-technology-update-on-11th-december-2023",
       editedTime: "Edited 3 days ago",
       content:
-        "Emily Clark provided an update on the integration of technology in education systems across rural areas.",
+        "New update by Emily Clark provided an update on the integration of technology in education systems across rural areas.",
       comments: 8,
       favourites: 15,
       commenterProfilePicture: "https://placehold.co/30x30",
@@ -81,7 +81,7 @@ function App() {
       linkText: "sustainable-development-goals-update-on-11th-december-2023",
       editedTime: "Edited 4 days ago",
       content:
-        "Sophia Lee shared updates on progress made towards achieving Sustainable Development Goals for 2030.",
+        "New update by Sophia Lee shared updates on progress made towards achieving Sustainable Development Goals for 2030.",
       comments: 12,
       favourites: 25,
       commenterProfilePicture: "https://placehold.co/30x30",
@@ -96,7 +96,7 @@ function App() {
       linkText: "community-engagement-project-on-11th-december-2023",
       editedTime: "Edited 5 days ago",
       content:
-        "Michael Johnson highlighted community engagement strategies during the Community Leaders Forum.",
+        "New update by Michael Johnson highlighted community engagement strategies during the Community Leaders Forum.",
       comments: 7,
       favourites: 18,
       commenterProfilePicture: "https://placehold.co/30x30",

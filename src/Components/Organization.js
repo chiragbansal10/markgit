@@ -124,6 +124,9 @@ const Organizations = () => {
   return (
     <div className="organizations-container">
       <h2>Organisations</h2>
+      <div className="search-container">
+
+</div>
       <ul className="organization-list">
         {organizations.map((org, index) => (
           <li key={index} className="organization-item">

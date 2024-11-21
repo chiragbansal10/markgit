@@ -96,3 +96,7 @@
 .show-all button:hover {
   text-decoration: underline;
 }
+.search-container{
+  border-bottom: 1px solid #ddd;
+  margin-bottom: 20px;
+}

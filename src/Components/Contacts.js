@@ -18,6 +18,9 @@ const Contacts = () => {
         </div>
         <button className="new-contact-btn">+ New Contact</button>
       </div>
+      <div className="search-container">
+
+</div>
 
       <div className="contacts-list">
         {contacts.map((contact, index) => (

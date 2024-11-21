@@ -21,6 +21,7 @@
     background-color: white;
     padding: 20px 40px;
     border-top: 5px solid #ddd;
+    width: 83rem;
   }
   
   .footer-top {
@@ -160,4 +161,9 @@
     text-decoration: none; /* Removes underline if needed */
   }
   
- 
+  .news-item p {
+    color: #d7e4f0;
+  }
+  .news-item {
+    color: #d7e4f0;
+  }

@@ -58,6 +58,9 @@ const PeopleYouFollow = () => {
   return (
     <div className="people-you-follow-container">
       <h2>People You Follow</h2>
+      <div className="search-container">
+
+</div>
       <div className="people-list">
         {peopleList.map((person, index) => (
           <div key={index} className="person">

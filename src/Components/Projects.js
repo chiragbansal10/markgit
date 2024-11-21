@@ -116,7 +116,9 @@ const Projects = ({ data }) => {
         <h3>{project.head}</h3>
         <button className="new-project-btn">+ {newProject.name}</button>
       </div>
+      <div className="search-container">
 
+</div>
       <div className="projects-list">
         {projects.map((project, index) => (
           <div className="project-item" key={index}>

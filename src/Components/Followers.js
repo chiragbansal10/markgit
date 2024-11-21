@@ -19,6 +19,9 @@ const Followers = () => {
   return (
     <div className="followers-container">
       <h2>Followers</h2>
+      <div className="search-container">
+
+</div>
       <div className="followers-list">
         {followers.map((follower, index) => (
           <div key={index} className="follower">

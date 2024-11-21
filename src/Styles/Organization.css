@@ -145,3 +145,7 @@
     cursor: pointer;
   }
   
+  .search-container{
+    border-bottom: 1px solid #ddd;
+    margin-bottom: 20px;
+  }
