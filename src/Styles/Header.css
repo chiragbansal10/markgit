@@ -1,0 +1,58 @@
+/* src/components/Header.css */
+.header-container {
+    background-color: white;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 16px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .header-left {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  
+  .header-icon {
+    font-size: 1.25rem;
+  }
+  
+  .header-right {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+  }
+  
+  .header-input {
+    border: 1px solid #e5e7eb;
+    border-radius: 4px;
+    padding: 8px;
+  }
+  
+  .header-user-icon {
+    font-size: 2rem;
+  }
+  
+  .header-button {
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 0.875rem;
+    font-weight: 500;
+  }
+  
+  .create-btn {
+    background-color: #ef4444;
+    color: white;
+  }
+  
+  .upgrades-btn {
+    background-color: #3b82f6;
+    color: white;
+  }
+  
+  .home-btn {
+    background-color: #d1d5db;
+    color: black;
+  }
+  

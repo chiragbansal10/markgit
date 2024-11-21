@@ -1,0 +1,12 @@
+.vertical-line {
+    height: 40px;
+    width: 1px;
+    background-color: #ccc; /* Adjust line color */
+    margin: 0 10px; /* Adjust spacing around the line */
+  }
+  .bell-icon {
+    color: black;
+    background-color: white;
+    padding: 5px;
+    border-radius: 50%;
+  }
