@@ -237,7 +237,7 @@
     margin-top: 15px;
     display: flex;
     align-items: center;
-    padding-left: 10px; /* Add left padding for alignment */
+    
   }
   
   .heart-icon {
@@ -249,8 +249,16 @@
   .post-stats {
     font-size: 14px;
     color: #555;
-    margin-right: 10px;
+    
+    margin-left: 21rem;
   }
+  .post-statsf {
+    font-size: 14px;
+    color: #555;
+    
+    margin-left: 1rem;
+  }
+  
   
   .comment-section {
     display: flex;
@@ -305,5 +313,10 @@
     border-top: 1px solid #dcdce6cb; /* Customize the color of the line */
     margin: 10px 0; /* Adjust spacing above and below the line */
     width: 100%; /* Ensures it spans the full width of the container */
+  }
+  
+  .highlight {
+    color: #d7e4f0;
+    font-weight: bold; /* Optional: to make the highlighted text stand out */
   }
   

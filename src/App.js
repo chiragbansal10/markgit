@@ -39,7 +39,7 @@ function App() {
         "New update by Yael Adamson-Brown working on the Using football to teach life skills to children for An Organisation Demo with Sofia.",
       comments: 0,
       favourites: 0,
-      commenterProfilePicture: "https://placehold.co/30x30",
+      commenterProfilePicture: yeal,
     },
     {
       profilePicture: yeal,
@@ -54,7 +54,7 @@ function App() {
         "New update by John Doe shared insights on new approaches to improving healthcare delivery at the Annual Health Summit.",
       comments: 5,
       favourites: 10,
-      commenterProfilePicture: "https://placehold.co/30x30",
+      commenterProfilePicture: yeal,
     },
     {
       profilePicture: yeal,
@@ -69,7 +69,7 @@ function App() {
         "New update by Emily Clark provided an update on the integration of technology in education systems across rural areas.",
       comments: 8,
       favourites: 15,
-      commenterProfilePicture: "https://placehold.co/30x30",
+      commenterProfilePicture: yeal,
     },
     {
       profilePicture:yeal,
@@ -84,7 +84,7 @@ function App() {
         "New update by Sophia Lee shared updates on progress made towards achieving Sustainable Development Goals for 2030.",
       comments: 12,
       favourites: 25,
-      commenterProfilePicture: "https://placehold.co/30x30",
+      commenterProfilePicture: yeal,
     },
     {
       profilePicture: yeal,
@@ -99,7 +99,7 @@ function App() {
         "New update by Michael Johnson highlighted community engagement strategies during the Community Leaders Forum.",
       comments: 7,
       favourites: 18,
-      commenterProfilePicture: "https://placehold.co/30x30",
+      commenterProfilePicture: yeal,
     },
   ];
   

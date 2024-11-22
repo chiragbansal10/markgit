@@ -1,0 +1,48 @@
+.line-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    margin: 20px auto;
+    width: 90%; /* Adjust width as needed */
+  }
+  
+  .line {
+    height: 5px;
+    width: 100%;
+    background: linear-gradient(
+      to right,
+      red,
+      orange,
+      yellow,
+      green,
+      blue,
+      indigo,
+      violet
+    );
+    position: relative;
+  }
+  
+  .circle {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    z-index: 1;
+  }
+  
+  .text {
+    position: absolute;
+    top: -25px; /* Adjust vertical position above the line */
+    background: #fff;
+    padding: 5px 10px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #000;
+    border-radius: 4px;
+    z-index: 2;
+  }
+  .company-logos{
+    background-color: #ffffff;
+  }

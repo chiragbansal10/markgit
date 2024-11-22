@@ -197,10 +197,12 @@ import insta from '../insta.jpg';
 import linked from '../linked.jpg';
 import twit from '../twit.jpg';
 import youtube from '../youtube.jpg';
+import ColorfulLine from './ColorfulLine';
 
 const Footer = () => {
   return (
     <footer className="footer">
+    <ColorfulLine/>
       <div className="footer-top">
         <div className="logo">
           <img src={make} alt="Makerble Logo" className="logo-image" />

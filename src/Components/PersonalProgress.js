@@ -78,7 +78,7 @@ const PersonalProgress = () => {
         ))}
       </div>
       <div className="footer1">
-        <a href="#" className="show-all">Show All</a>
+        <a href="#" className="show-allp">Show All</a>
       </div>
     </div>
   );

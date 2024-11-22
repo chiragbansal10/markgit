@@ -19,9 +19,9 @@
     font-family: Arial, sans-serif;
     color: #333;
     background-color: white;
-    padding: 20px 40px;
-    border-top: 5px solid #ddd;
-    width: 83rem;
+    /* padding: 20px 40px;
+    border-top: 5px solid #ddd;*/
+    width: 85rem; 
   }
   
   .footer-top {
@@ -34,6 +34,7 @@
   .footer-section {
     flex: 1;
     padding: 0 20px;
+    margin-left: 62px;
   }
   
   .logo h1 {
